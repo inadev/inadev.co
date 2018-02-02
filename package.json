@@ -1,0 +1,10 @@
+{
+  "name": "inadev.co",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -c 31536000000"
+  },
+  "dependencies": {
+    "serve": "^6.4.9"
+  }
+}
