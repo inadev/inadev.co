@@ -5,6 +5,6 @@
     "start": "serve -c 31536000000"
   },
   "dependencies": {
-    "serve": "^6.4.9"
+    "serve": "^6.5.6"
   }
 }
