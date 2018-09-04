@@ -2,7 +2,7 @@
   "name": "inadev.co",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -c 31536000000"
+    "start": "NODE_ENV=production serve"
   },
   "dependencies": {
     "serve": "^10.0.0"
