@@ -5,6 +5,6 @@
     "start": "NODE_ENV=production serve"
   },
   "dependencies": {
-    "serve": "^10.0.1"
+    "serve": "^10.0.2"
   }
 }
